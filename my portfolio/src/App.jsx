@@ -75,7 +75,7 @@ export default function App() {
         </div>
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="https://avatars.githubusercontent.com/u/yourgithubid" // Replace with your photo URL or GitHub avatar
+            src="https://res.cloudinary.com/doa6jwyfj/image/upload/v1758463107/retouch_2025082214161376_dseoe2.jpg" // Replace with your photo URL or GitHub avatar
             alt="Shyam Zapda"
             className="rounded-full w-48 h-48 object-cover shadow-lg"
           />
